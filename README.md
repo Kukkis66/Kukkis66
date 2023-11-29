@@ -1,4 +1,4 @@
-###I am an early-career software developer eager to enhance my coding skills.
+
 
 <!--
 **Kukkis66/Kukkis66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
